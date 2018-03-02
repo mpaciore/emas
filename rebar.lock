@@ -4,7 +4,7 @@
  {<<"lager">>,{pkg,<<"lager">>,<<"3.2.4">>},1},
  {<<"mas">>,
   {git,"https://github.com/mpaciore/mas.git",
-       {ref,"9cf8d0bca4fff4c965fc4040e66fbe4b5fac975c"}},
+       {ref,"cff27ddf8fc48ed93155e21cc6a7756f3e411f85"}},
   0}]}.
 [
 {pkg_hash,[
