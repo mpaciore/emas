@@ -3,7 +3,7 @@
  {<<"goldrush">>,{pkg,<<"goldrush">>,<<"0.1.9">>},2},
  {<<"lager">>,{pkg,<<"lager">>,<<"3.2.4">>},1},
  {<<"mas">>,
-  {git,"https://github.com/erlang-mas/mas.git",
+  {git,"https://github.com/mpaciore/mas.git",
        {ref,"9cf8d0bca4fff4c965fc4040e66fbe4b5fac975c"}},
   0}]}.
 [
